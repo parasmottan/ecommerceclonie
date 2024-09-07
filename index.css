@@ -127,11 +127,12 @@ footer{
     border-top-left-radius: 125px;
     border-top-right-radius: 125px;
 }
-.footcon{
+.footcon {
     width: 1140px;
     margin: auto;
     display: flex;
     justify-content: center;
+    margin-left: -27vw;
 }
 .footer-content{
     width: 33.3%;
@@ -146,8 +147,9 @@ h3{
     margin: auto;
     padding: 7px;
 }
-.footer-content ul{
+.footer-content ul {
     text-align: center;
+    margin-left: -27vw;
 }
 .list{
     padding: 0;
@@ -176,7 +178,7 @@ h3{
 .social{
     text-align: center;
     padding-left: 100px;
-    
+    margin-left: -28vw;
 }
 .social li{
     display: inline-block;
@@ -451,15 +453,15 @@ h3 {
 }
 
 .footer-content ul {
-    display: none;
-    display: flex;
-    text-align: center;
-    margin-left: -1vw;
-    margin-bottom: 16vw;
-    position: absolute;
-    bottom: -28vw;
-    opacity: 0;
-}
+        display: none;
+        display: flex;
+        text-align: center;
+        margin-left: -1vw;
+        margin-bottom: 16vw;
+        position: absolute;
+        bottom: -28vw;
+        opacity: 0;
+    }
 
 .list li {
     width: auto;
