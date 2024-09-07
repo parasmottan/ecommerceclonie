@@ -451,12 +451,14 @@ h3 {
 }
 
 .footer-content ul {
+    display: none;
     display: flex;
     text-align: center;
-    margin-left: 0vw;
+    margin-left: -1vw;
     margin-bottom: 16vw;
     position: absolute;
     bottom: -28vw;
+    opacity: 0;
 }
 
 .list li {
