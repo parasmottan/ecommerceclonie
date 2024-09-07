@@ -423,7 +423,8 @@ h3 {
 
 .social {
     text-align: center;
-    padding-left: 34vw;
+    padding-left: 7vw;
+    margin-left: 29vw;
 }
 
 
@@ -440,7 +441,7 @@ h3 {
 .footer-content {
     width: 33.3%;
     position: relative;
-    left: -6vw;
+    left: -3vw;
 }
 
 
